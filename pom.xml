@@ -36,7 +36,7 @@
         <version>${mybatis.version}</version>
     </dependency>
  </dependencies>
- <build>
+ 	<build>
         <finalName>mybatis-generator</finalName>
         <pluginManagement>
             <plugins>
@@ -81,5 +81,5 @@
                 </plugin>
             </plugins>
         </pluginManagement>
- </build>
+ 	</build>
 </project>
